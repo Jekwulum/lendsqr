@@ -5,7 +5,7 @@ const options = {
     connection: {
         host: process.env.DB_HOST,
         user: process.env.DB_USER,
-        password: 'Cjfavour2001##',
+        password: 'remember##',
         database: 'lendsqr'
     },
     pool: { min: 0, max: 10 }
